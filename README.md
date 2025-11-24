@@ -6,7 +6,7 @@ Este repositório contém a análise de fluxo de controle e complexidade ciclom�
 
 Abaixo está a representação visual do fluxo de controle do código analisado, abrangendo os métodos `conectarBD` e `verificarUsuario`.
 
-![Grafo de Fluxo](Grafo%20de%20Fluxo.drawio.png)
+![Grafo de Fluxo](grafo-fluxo.png)
 
 ### Dados do Grafo
 * **Nós (N):** 11
